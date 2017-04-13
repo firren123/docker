@@ -1,4 +1,4 @@
-from csphere/php-fpm:5.4
+from firren/base-php-fpm:5.4
 
 add init.sh /init.sh
 
